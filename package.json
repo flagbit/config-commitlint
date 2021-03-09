@@ -1,0 +1,9 @@
+{
+  "name": "@flagbit/config-commitlint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@commitlint/config-conventional": "^12.0.1"
+  }
+}
