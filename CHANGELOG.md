@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.3](https://www.github.com/flagbit/config-commitlint/compare/v1.0.2...v1.0.3) (2021-03-10)
+
+
+### Bug Fixes
+
+* Add missing access-flag to publish command ([0efef2b](https://www.github.com/flagbit/config-commitlint/commit/0efef2b285229e7eb0e09981bbcbc6bb69bd2db5))
+
 ### [1.0.2](https://www.github.com/flagbit/config-commitlint/compare/v1.0.1...v1.0.2) (2021-03-10)
 
 
