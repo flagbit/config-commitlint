@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/flagbit/config-commitlint/compare/v1.0.1...v1.0.2) (2021-03-10)
+
+
+### Bug Fixes
+
+* Replace yarn.lock with package-lock.json ([0a37907](https://www.github.com/flagbit/config-commitlint/commit/0a379075ae33bb77cd6038d1dea5bd908777c88d))
+
 ### [1.0.1](https://www.github.com/flagbit/config-commitlint/compare/v1.0.0...v1.0.1) (2021-03-10)
 
 
