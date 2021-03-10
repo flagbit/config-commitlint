@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/flagbit/config-commitlint/compare/v1.0.0...v1.0.1) (2021-03-10)
+
+
+### Bug Fixes
+
+* Add missing id-property to release workflow ([e08a521](https://www.github.com/flagbit/config-commitlint/commit/e08a521dab6be69d70c17192c3e167c20ae45441))
+
 ## 1.0.0 (2021-03-10)
 
 
