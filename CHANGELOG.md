@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/flagbit/config-commitlint/compare/v1.0.3...v1.1.0) (2021-05-12)
+
+
+### Features
+
+* Ignore commitmessages generate by release-please ([a1db28d](https://www.github.com/flagbit/config-commitlint/commit/a1db28d77dbda96494c552567a7e6a89713dc29a))
+
 ### [1.0.3](https://www.github.com/flagbit/config-commitlint/compare/v1.0.2...v1.0.3) (2021-03-10)
 
 
