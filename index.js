@@ -33,4 +33,5 @@ module.exports = {
       ],
     ],
   },
+  ignores: [(message) => message.includes("chore: release")],
 };
