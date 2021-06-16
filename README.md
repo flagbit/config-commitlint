@@ -10,11 +10,6 @@ including this content:
 ```javascript
 module.exports = {
   extends: ["@flagbit/config-commitlint"],
-  parserPreset: {
-    parserOpts: {
-      issuePrefixes: ["FBTLOPS-"],
-    },
-  },
 };
 ```
 

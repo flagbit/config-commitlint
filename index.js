@@ -34,4 +34,10 @@ module.exports = {
     ],
   },
   ignores: [(message) => message.includes("chore: release")],
+  parserPreset: {
+    parserOpts: {
+      referenceActions: null,
+      issuePrefixes: ["\\s[\\w\\d]{1,10}-"],
+    },
+  },
 };
