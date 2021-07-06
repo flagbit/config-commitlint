@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.0.1"
   }
 }

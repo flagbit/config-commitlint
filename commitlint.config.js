@@ -2,7 +2,7 @@ module.exports = {
   extends: ["./index.js"],
   parserPreset: {
     parserOpts: {
-      issuePrefixes: ["FBTLOPS-"],
+      issuePrefixes: ["\\s[\\w\\d]{1,10}-"],
     },
   },
 };
