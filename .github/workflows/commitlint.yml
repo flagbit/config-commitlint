@@ -10,6 +10,6 @@ jobs:
         with:
           fetch-depth: 0
       - run: |
-          yarn global add @commitlint/cli @commitlint/config-conventional
+          yarn add @commitlint/cli @commitlint/config-conventional
           echo "$(yarn global bin)" >> $GITHUB_PATH
       - run: make lint
