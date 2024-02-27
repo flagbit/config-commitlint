@@ -3,6 +3,6 @@ on:
   push:
 jobs:
   test:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - run: make test
