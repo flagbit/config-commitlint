@@ -33,5 +33,10 @@ module.exports = {
       ],
     ],
   },
-  ignores: [(message) => message.includes("chore: release")],
+  ignores: [
+    (message) => message.includes("chore: release"),
+    // Bot commits (Renovate updates, vulnguard AI security fixes) never carry a ticket reference;
+    // vulnguard marks them with this trailer.
+    (message) => /^Generated-by: vulnguard$/m.test(message),
+  ],
 };
