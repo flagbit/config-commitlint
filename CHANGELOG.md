@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.2](https://www.github.com/flagbit/config-commitlint/compare/v1.3.1...v1.3.2) (2026-11-17)
+
+
+### Bug Fixes
+
+* Publish to npm via trusted publishing ([db9dcb4](https://www.github.com/flagbit/config-commitlint/commit/db9dcb4c3b2da39dd706f9740590b38d33bcfbc2))
+
 ### [1.3.1](https://www.github.com/flagbit/config-commitlint/compare/v1.3.0...v1.3.1) (2026-11-17)
 
 
