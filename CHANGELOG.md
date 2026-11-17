@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/flagbit/config-commitlint/compare/v1.2.0...v1.3.0) (2026-11-17)
+
+
+### Features
+
+* Ignore bot commits marked with Generated-by vulnguard ([8883c78](https://www.github.com/flagbit/config-commitlint/commit/8883c7820c79cce94c90918e24b3bb29670abcdb))
+
 ## [1.2.0](https://www.github.com/flagbit/config-commitlint/compare/v1.1.0...v1.2.0) (2021-07-06)
 
 
