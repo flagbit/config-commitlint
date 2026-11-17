@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.1](https://www.github.com/flagbit/config-commitlint/compare/v1.3.0...v1.3.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* Sync package-lock.json with package.json ([ac65a54](https://www.github.com/flagbit/config-commitlint/commit/ac65a54ad436a7823ea9ff8dcb3798346f4f0039))
+
 ## [1.3.0](https://www.github.com/flagbit/config-commitlint/compare/v1.2.0...v1.3.0) (2026-11-17)
 
 
