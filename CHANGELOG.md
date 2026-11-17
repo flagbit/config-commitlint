@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.3](https://www.github.com/flagbit/config-commitlint/compare/v1.3.2...v1.3.3) (2026-11-17)
+
+
+### Bug Fixes
+
+* Add repository to package.json for npm provenance ([f35a9f7](https://www.github.com/flagbit/config-commitlint/commit/f35a9f7bfb5435754786422e4d1028e4f8263a54))
+
 ### [1.3.2](https://www.github.com/flagbit/config-commitlint/compare/v1.3.1...v1.3.2) (2026-11-17)
 
 
